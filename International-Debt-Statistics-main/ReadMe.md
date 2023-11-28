@@ -4,7 +4,7 @@
 
 If you have been following new recently, you may have come across various headlines like "South Asia in Chinese Debt Trap", "Economic crisis in Sri Lanka", "Failing economy of Pakistan", etc. These news articles made me curious to look into bilateral lendings between 2 countries. Using python, I developed a script to download PPG Bilateral Debt data between 2 countries using World Bank API.
 
-My project collects data of PPG bilateral lending between India and its neighbouring countries which include Bangladesh, Bhutan, Sri Lanka, Nepal, Maldives & Myanmar. I have wrangled and analysed data from last 20 years of each country individually and visualized the data in form of excel dashboard for easy understanding of lending trend. Check out the [project report](https://github.com/indtheblacktiger/International-Debt-Statistics/blob/main/Project%20Report.pdf)
+My project collects data of PPG bilateral lending between India and its neighbouring countries which include Bangladesh, Bhutan, Sri Lanka, Nepal, Maldives & Myanmar. I have wrangled and analysed data from last 20 years of each country individually and visualized the data in form of excel dashboard for easy understanding of lending trend. 
 
 ## About the dataset
 
